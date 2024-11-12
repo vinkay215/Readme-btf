@@ -42,11 +42,12 @@
 </p>
 
 ###
-<p align="center" style="font-size: 26px;">
+<p align="center">
   𝘾𝒐𝙣𝒕𝙖𝒄𝙩 𝙛𝒐𝙧 𝙬𝒐𝙧𝒌
 </p>
 <p align="center">
 <a href="https://nguyenquocvinh.glitch.me/Donate" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
+  
 <a href="https://linkedin.com/in/vinkay" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://instagram.com/_vinkay_" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
 <a href="https://facebook.com/vinkay" target="_blank"><img alt="" src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=3b5998" style="vertical-align:center" /></a>
