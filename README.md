@@ -388,9 +388,8 @@ public class CodeBite {
 
 
 <div align="center">
-
-<img height="200" alt="Thanks for visiting me" width="100%" src="https://nguyenquocvinh.glitch.me/Profile/site-github.svg" />
-<br />
+<img height="200" width="100%" src="https://nguyenquocvinh.glitch.me/Profile/site-github.svg" />
+</div>
 
 
 <div align="center">
