@@ -42,7 +42,7 @@
 </p>
 
 ###
-<p align="center" style="font-size: 16px;">
+<p align="center" style="font-size: 26px;">
   𝘾𝒐𝙣𝒕𝙖𝒄𝙩 𝙛𝒐𝙧 𝙬𝒐𝙧𝒌
 </p>
 <p align="center">
