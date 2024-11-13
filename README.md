@@ -14,7 +14,7 @@
         <img src="https://github-widgetbox.vercel.app/api/profile?username=jrohitofficial&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
     </a>
 
-<p align="center"><a href="https://github.com/jrohitofficial"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=29&duration=600&pause=3000&color=378CF7&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub.;My+commonly+used+nickname+is+Vinkay;I+am+a+developer;I+am+a+designer;Youtuber;Thanks+for+visiting+my+profile;see+you+next+time!" alt="Typing SVG" /></a></p>
 
 <h3 align="center"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/code.gif?raw=true" height="20"</h3>
 
