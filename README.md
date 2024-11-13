@@ -1,9 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=%C4%90%C3%9ANG+V%E1%BA%ACY&vCenter=%C4%90%C3%9ANG+V%E1%BA%ACY&repeat=%C4%90%C3%9ANG+V%E1%BA%ACY&random=SAI&width=800&lines=2;identify+security+vulne+and+identify+security;vulne;and+identify+security+vulne+and+identify+security+vulne+;aaaaaaaaaa%C4%91%C3%A2sdq%C6%B0eq%C6%B0eq%C6%B0)](https://git.io/typing-svg)
 
 
+
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<a href="https://git.io/typing-svg"><img src="https://nguyenquocvinh.glitch.me/Hi/index.svg" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://nguyenquocvinh.glitch.me/Profile/site-github.svg" alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="http://jrohit.com.np" target="_blank">
